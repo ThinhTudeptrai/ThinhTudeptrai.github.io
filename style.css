@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input.input-add, input.input-edit {
+    width: 85%;
+    padding: 0px 16px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #ededed;
+    border: 1px solid #bebebe;
+    outline: none;
+}
+
+form.form-add, form.form-edit {
+    width: 600px;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.cmt:hover .icons {
+    display: inline-block;
+}
+
+.icons {
+    display: inline-block;
+    font-size: 14px;
+    display: none;
+}
+
+.icon-pen {
+    color: #979797;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+span.ten {
+    font-weight: 700;
+    color: #385898;
+    margin-right: 4px;
+}
+
+p.text {
+    background-color: #ededed;
+    display: inline-block;
+    padding: 10px 16px;
+    border-radius: 21px;
+}
+
+body {
+    font-family: Segoe UI;
+}
+
+.icon-del {
+    color: #ffa4a4;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.cmt {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+
+
+img.avt {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 12px;
+}
+
+.khoi-cmt {
+    width: 600px;
+    margin: auto;
+}
+
+.cmt-temp, .form-edit-temp {
+    display: none;
+}

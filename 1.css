@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p.the1 {
+    font-size: 24px;
+    margin: 48px 0;
+}
+
+form {
+    margin-top: 48px;
+}
+
+.anh {
+    width: 200px;
+}
+
+.class-1 {
+    color: red;
+}
+
+.input {
+    padding: 16px;
+}
